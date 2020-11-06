@@ -1,3 +1,3 @@
 # Hello Git
 
-- Enter your name here:
+- Enter your name here: Henry
